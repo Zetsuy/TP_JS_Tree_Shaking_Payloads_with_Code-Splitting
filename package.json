@@ -21,8 +21,8 @@
   "homepage": "https://github.com/Zetsuy/TP_JS_Tree_Shaking_Payloads_with_Code-Splitting#readme",
   "devDependencies": {
     "lodash": "^4.17.15",
-    "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {}
 }
